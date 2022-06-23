@@ -1,7 +1,7 @@
 # BankSimulation
 This is my mathematical model of queuing system with 2 tellers.
 
-In this particular model we have 2 parameters of the system: mu represents average of treatments per unit of time and lambda represents average of incoming clients per unit of time.
+In this particular model we have 2 parameters of the system: mu represents average of served clients per unit of time and lambda represents average of incoming clients per unit of time.
 
 When we have mu and lambda we can easily calculate ro. Ro represents system's intensity.
 (we have constant n=2 tellers)
